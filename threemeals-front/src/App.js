@@ -1,11 +1,14 @@
 import React from "react";
+import Main from "pages/Main/Main";
 
-function App() {
+const App = () => {
   return (
     <>
-      <p>hi there</p>
+      <React.Fragment>
+        <Main />
+      </React.Fragment>
     </>
   );
-}
+};
 
 export default App;
