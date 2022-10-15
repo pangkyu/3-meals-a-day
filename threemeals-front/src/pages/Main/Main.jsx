@@ -6,7 +6,7 @@ import React from "react";
 const Main = () => {
   return (
     <>
-      <p>hi</p>
+      <p>깃 브랜치 테스트 !!! </p>
     </>
   );
 };
